@@ -1,0 +1,25 @@
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px silver;
+}
+.note{
+font-size: 15px;
+color: black;
+background-color: rgb(4, 253, 232);
+}
+.fotter{
+position: fixed;
+color: silver;
+background-color: rgb(4, 253, 232); 
+bottom: 0;
+width: 100%;
+line-height: 3;
+text-align: center;
+}
+canvas{
+border: 5px dashed gold;
+border-radius: 20px;
+box-shadow: 5px 5px 5px silver;
+}
